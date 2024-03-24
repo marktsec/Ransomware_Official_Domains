@@ -30,3 +30,6 @@ http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion
 
 ## RA 
 http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion
+
+## snatch
+https://snatchteam.cc/
