@@ -34,6 +34,9 @@ http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion
 ## snatch
 https://snatchteam.cc/
 
+## Red Ransomware Group
+http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion
+
 ## Qilin
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/
 
