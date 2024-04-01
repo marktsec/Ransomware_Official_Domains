@@ -46,3 +46,6 @@ http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/
 ## 8BASE
 http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/
 
+## INC Ransom
+http://incapt.su/blog/leaks
+
