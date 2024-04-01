@@ -49,3 +49,5 @@ http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/
 ## INC Ransom
 http://incapt.su/blog/leaks
 
+## RansomEXX
+http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion
