@@ -70,3 +70,7 @@ http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog
 ## Donutleaks
 http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion/
 
+## MalekTeam
+http://195.14.123.2/
+
+
