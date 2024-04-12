@@ -70,6 +70,11 @@ http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog
 ## Donutleaks
 http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion/
 
+## DarkVault
+http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion
+
+
+
 ## MalekTeam
 http://195.14.123.2/
 
