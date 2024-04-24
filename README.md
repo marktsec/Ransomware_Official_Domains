@@ -9,6 +9,8 @@ http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/
 
 ## Akira
 https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/
+### Akira Additional Information:
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a
 
 ## BianLian
 http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/
@@ -104,4 +106,8 @@ http://62brsjf2w77ihz5paods33cdgqnon54gjns5nmag3hmqv6fcwamtkmad.onion/
 
 ## Embargo 
 http://embargobe3n5okxyzqphpmk3moinoap2snz5k6765mvtkk7hhi544jid.onion
+
+## RansomHouse
+http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/
+
 
