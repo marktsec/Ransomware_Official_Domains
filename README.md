@@ -14,6 +14,8 @@ https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a
 
 ## BianLian
 http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/
+### BrianLian Additional Information:
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a
 
 ## BlackBasta
 http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/
