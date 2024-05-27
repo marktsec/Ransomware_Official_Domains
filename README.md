@@ -149,6 +149,10 @@ http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion/
 ## Arcus Media
 http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/
 
+## BreachForums
+http://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion
+
+
 ## Money Message
 http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion
 
