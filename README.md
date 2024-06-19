@@ -165,4 +165,5 @@ http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion/
 ## El Dorado
 http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion
 
-
+## cicada3301
+http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/
