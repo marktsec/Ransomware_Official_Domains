@@ -175,3 +175,11 @@ http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion
 
 ## cicada3301
 http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/
+
+## Vanir Group
+http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion/
+
+## pryx
+http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion/b/
+
+
