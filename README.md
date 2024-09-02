@@ -26,6 +26,9 @@ Seized: http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion
 http://lockbit33chewwx25efq6dgkhkw4u7nefudq4ijkuamjfd7x73on6dyd.onion/
 The blog access key: NDWZ3NXU66EWUFBMJWQOC2FXIIHFZFKZRULHBGAYFYX4HEIDRF5Q
 
+http://lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion/
+http://lbb2llze7ab4rnq4jumsy4ihsqzpuysaofpz2e43foocwmrzsokumqid.onion/
+
 Contact Us
 Tox
 https://tox.chat/download.html
