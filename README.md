@@ -192,3 +192,6 @@ Contact: (qtox.github.io) Tox id:19A549A57160F384CF4E36EE1A24747ED99C623C48EA545
 ## MadLiberator
 http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion/
 
+## Trinity
+http://txtggyng5euqkyzl2knbejwpm4rlq575jn2egqldu27osbqytrj6ruyd.onion/
+
