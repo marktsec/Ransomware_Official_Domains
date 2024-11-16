@@ -188,7 +188,8 @@ http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion
 http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/
 
 ## Vanir Group
-http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion/
+http://6xdpj3sb5kekvq5ulym5qqmzsv6ektjgvpmajns3qrafgxtyxrhokfqd.onion/ \
+THIS HIDDEN SITE HAS BEEN SEIZED
 
 ## pryx
 http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion/b/
@@ -197,8 +198,9 @@ http://c2mdhim6btaiyae3xqthnxsz64brvdxsnbty4tvos65zb565y4v55iid.onion/b/
 http://xbkv2qey6u3gd3qxcojynrt4h5sgrhkar6whuo74wo63hijnn677jnyd.onion/
 
 ## Helldown
-http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion/
-Contact: (qtox.github.io) Tox id:19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E
+http://onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion/ \
+Contact: (qtox.github.io) \
+Tox id:19A549A57160F384CF4E36EE1A24747ED99C623C48EA545F343296FB7092795D00875C94151E \
 
 ## MadLiberator
 http://k67ivvik3dikqi4gy4ua7xa6idijl4si7k5ad5lotbaeirfcsx4sgbid.onion/
@@ -213,13 +215,15 @@ http://lynxblogxutufossaeawlij3j3uikaloll5ko6grzhkwdclrjngrfoid.onion/
 http://orca66hwnpciepupe5626k2ib6dds6zizjwuuashz67usjps2wehz4id.onion/
 
 ## Brain cypher
-http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/
+http://vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion/ \
+E-mail: brain.support@cyberfear.com
 
 ## Nitrogen
-http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion
+http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion \
+TOX: 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D
 
 ## Sarcoma
-http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/
+http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/ \
 Mail: SarcomaGroup@onionmail.org
 
 ## Interlock
@@ -229,13 +233,13 @@ http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion
 http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion
 
 ## HellCat
-http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion/
+http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion/ \
 TOX: 898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4
 Telegram: @HCSupp
 XMPP: hellcat@5222.de
 
 ## Apos Security
-http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion/blog
+http://yrz6bayqwhleymbeviter7ejccxm64sv2ppgqgderzgdhutozcbbhpqd.onion/blog \
 TOX: E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA3572
 
 
