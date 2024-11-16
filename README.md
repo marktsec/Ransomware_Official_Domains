@@ -101,6 +101,7 @@ http://mdhby62yvvg6sd5jmx5gsyucs7ynb5j45lvvdh4dsymg43puitu7tfid.onion
 http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion/
 
 ## DAIXIN
+http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion/
 http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/
 ### DAIXIN Additional Info:
 https://www.aha.org/system/files/media/file/2022/10/joint-cybersecurity-advisory-tlp-white-stop-ransomware-daixin-team-10-21-22.pdf
