@@ -176,13 +176,19 @@ http://blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion
 http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/
 
 ## Cl0p
-http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ 
+http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/ \
+unlock@he1p-me.com \
+unlock@cl-leaks.com \
+support@he1p-center.com
 
 ## SenSayQ
 http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion/
 
-## El Dorado
-http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion
+## El Dorado / Blacklock
+http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion \
+MAIL:blacklock@cyberfear.com \
+CHAT:https://qtox.github.io/ \
+qTox ID: 667798F921A68529C74094664C1B890D4E1156C4588906071398FA4F76C2095C0BF34A4C5D9C
 
 ## cicada3301
 http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/
