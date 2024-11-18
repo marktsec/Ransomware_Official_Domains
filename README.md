@@ -270,4 +270,7 @@ TOX: E6DE9A810847293EC993A6FFCF615F43178489048D2974C215B2D1BAEED3A950432030DA357
 ## Termite
 http://termiteuslbumdge2zmfmfcsrvmvsfe4gvyudc5j6cdnisnhtftvokid.onion
 
+## Chort
+http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion \
+Telegram Channel @ChortGroup
 
