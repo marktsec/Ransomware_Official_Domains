@@ -275,5 +275,6 @@ http://hgxyonufefcglpekxma55fttev3lcfucrf7jvep2c3j6447cjroadead.onion \
 Telegram Channel @ChortGroup
 
 ## Safepay
-http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion/
+http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion/ \
+Email : VanessaCooke94@protonmail.com
 
