@@ -15,8 +15,13 @@ https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion/
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a
 
 ## BianLian
-http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/
-bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion
+http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/ \
+http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion \
+Tox: A8AD0FD4C931CDAA1408D5A60CBF38CEDF46B41E19A8A55E4EF1F1848AF3416AE52D278D37DF \
+Email: deepmind@onionmail.org \
+Tox: A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC \
+Mail: swikipedia@onionmail.org \
+swikipedia.reserve@onionmail.org \
 ### BrianLian Additional Information:
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a
 
@@ -34,18 +39,25 @@ http://lbb2llze7ab4rnq4jumsy4ihsqzpuysaofpz2e43foocwmrzsokumqid.onion/
 
 http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion
 
-Contact Us
-Tox
-https://tox.chat/download.html
-Tox ID Support
-3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7 
+Tox (https://tox.chat/download.html) \
+Tox ID Support: 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D709C3C4AE9B7 \
+XMPP servers: (https://anonym.im/ https://www.jabbim.com/) \
+lockbit@anonym.im \
+lockbitapt@jabb.im \
+Briar (https://briarproject.org) \
+LockBit Briar ID: briar://abv3rrd62jpln5tyk6nbwospngef5ropu7gkrhnsjn5nvqglek3e2 \
+Forum profile: \
+http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/members/lockbit.9/ \
+
 
 ## Play
-http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/
+http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/ \
+http://ipi4tiumgzjsym6pyuzrfqrtwskokxokqannmd6sa24shvr7x5kxdvqd.onion \
+http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion \
+
 
 ## hunters
-https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion
-
+https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion \
 https://huntersinternational.net
 
 ## kill security
@@ -56,10 +68,10 @@ http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion - New blog
 http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion
 
 ## snatch
-https://snatchteam.cc/
+https://snatchteam.cc/ - An error occurred during a connection to snatchteam.cc. 
 
 ## Red Ransomware Group
-http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion
+http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion - onion site is offline
 
 ## Qilin
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
@@ -72,7 +84,7 @@ http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/
 http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion/
 
 ## 8BASE
-http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/
+http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/ - onion site is offline
 
 ## INC Ransom
 http://incblog.su/blog/disclosures
@@ -82,7 +94,8 @@ http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/
 http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion
 
 ## cactus
-https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion 
+https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion \
+http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/Cactus_Support
 
 ## Black Suit
 http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion
