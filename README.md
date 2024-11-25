@@ -64,7 +64,8 @@ https://huntersinternational.net
 http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion \
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion - New blog \
 ID: 9453686EAB63923D1C35C92DDE5E61A6534DD067B5448C1C8D996A460B92CA5055C1AB0FCD22 \
-session:05cb94c52170c8119f7ebc2d8afc94b9746bc7c361d91c49e7d18e96e266582a07
+session:05cb94c52170c8119f7ebc2d8afc94b9746bc7c361d91c49e7d18e96e266582a07 \
+https://t.me/k1llsec
 
 ## RA 
 http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion
