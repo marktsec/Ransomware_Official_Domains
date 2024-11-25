@@ -61,8 +61,10 @@ https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion \
 https://huntersinternational.net
 
 ## kill security
-http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion
-http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion - New blog
+http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion \
+http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion - New blog \
+ID: 9453686EAB63923D1C35C92DDE5E61A6534DD067B5448C1C8D996A460B92CA5055C1AB0FCD22 \
+session:05cb94c52170c8119f7ebc2d8afc94b9746bc7c361d91c49e7d18e96e266582a07
 
 ## RA 
 http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion
@@ -77,7 +79,7 @@ http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion - onion si
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
 jabber: qilin@exploit.im \
 TOX: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68 \
-ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85.209.11.49 \
+ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85.209.11.49
 
 ## Medusa
 http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/
