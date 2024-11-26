@@ -307,3 +307,5 @@ Telegram Channel @ChortGroup
 http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion/ \
 Email : VanessaCooke94@protonmail.com
 
+## kairos
+http://nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion
