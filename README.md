@@ -81,6 +81,7 @@ http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
 jabber: qilin@exploit.im \
 TOX: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68 \
 ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85.209.11.49
+ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@188.119.66.189
 
 ## Medusa
 http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/ \
