@@ -322,3 +322,6 @@ Contact: kairossup@onionmail.com
 ## Argonauts
 http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion/
 
+## Funksec
+http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion
+
