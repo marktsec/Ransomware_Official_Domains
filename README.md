@@ -94,6 +94,7 @@ TOX: AEA72DFCF492037A6D15755A74645C7D8E674E342BACA9F9070A3FB74117EC3143FD6E29BEA
 
 ## 8BASE
 http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/ - onion site is offline
+http://xfycpauc22t5jsmfjcaz2oydrrrfy75zuk6chr32664bsscq4fgyaaqd.onion/
 
 ## INC Ransom
 http://incblog.su/blog/disclosures
