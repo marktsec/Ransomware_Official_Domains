@@ -225,7 +225,7 @@ http://zhuobnfsddn2myfxxdqtpxk367dqnntjf3kq7mrzdgienfxjyllq4rqd.onion/
 ## MONTI
 http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion/
 
-## Arcus Media
+## Arcus
 http://arcuufpr5xxbbkin4mlidt7itmr6znlppk63jbtkeguuhszmc5g7qdyd.onion/ \
 TOX : F6B2E01CFA4D3F2DB75E4EDD07EC28BF793E541A9674C3E6A66E1CDA9D931A1344E321FD2582 \
 XMPP : AlexanderPushkin@exploit.im
@@ -331,7 +331,7 @@ Contact: kairossup@onionmail.com
 http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion/
 
 ## Funksec
-http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/ \
+http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/
 
 http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion - onion site is offline \
 http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion - onion site is offline \
