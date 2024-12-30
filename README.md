@@ -334,6 +334,7 @@ http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion/
 http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/ \
 funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion \
 funkiydk7c6j3vvck5zk2giml2u746fa5irwalw2kjem6tvofji7rwid.onion \
+https://github.com/funksec-CM \
 Get Session: 0538d726ae3cc264c1bd8e66c6c6fa366a3dfc589567944170001e6fdbea9efb3d \
 Get twitter: https://x.com/FunksecCM \
 
