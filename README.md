@@ -346,3 +346,7 @@ Get Session: 0538d726ae3cc264c1bd8e66c6c6fa366a3dfc589567944170001e6fdbea9efb3d
 ## bluebox
 http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion/
 
+## Beast
+Jabber: mnstr@exploit.im
+TOX: 92E5D1A8ECFC69E7967E7A9DC1C9A735CD8DCE965D12EF01F19966C7101EAF071B4CDEA310E9
+
