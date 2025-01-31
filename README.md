@@ -338,6 +338,8 @@ funkiydk7c6j3vvck5zk2giml2u746fa5irwalw2kjem6tvofji7rwid.onion \
 https://github.com/funksec-CM \
 Get Session: 0538d726ae3cc264c1bd8e66c6c6fa366a3dfc589567944170001e6fdbea9efb3d \
 Get twitter: https://x.com/FunksecCM - Offline\
+funksecfr@onionmail.org \
+http://funkhnsbaxojjjju65bhc7xuidjwvmwhdmgarvhbhs3szqkpzkmvnvid.onion - auctions marketplace in tor netwrok
 
 http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion - onion site is offline \
 http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion - onion site is offline \
