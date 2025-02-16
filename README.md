@@ -332,6 +332,10 @@ Contact: kairossup@onionmail.com
 http://jbmk7h6xlkedn2gg5yi76zca6y3jgdlp5wchlsrd7735tlnrmmvqe5ad.onion/
 
 ## Funksec
+funksec53xh7j5t6ysgwnaidj5vkh3aqajanplix533kwxdz3qrwugid.onion \
+funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion \
+funksecsekgasgjqlzzkmcnutrrrafavpszijoilbd6z3dkbzvqu43id.onion \
+
 http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/ \
 funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion \
 funkiydk7c6j3vvck5zk2giml2u746fa5irwalw2kjem6tvofji7rwid.onion \
