@@ -362,3 +362,8 @@ http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion \
 X (Twitter) : https://x.com/Anubis__media \
 XSS.is : https://xss.is/members/400498/
 
+## MORPHEUS 
+http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion/ \
+mopheus@onionmail.org
+
+http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion/
