@@ -357,3 +357,8 @@ http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion/
 Jabber: mnstr@exploit.im
 TOX: 92E5D1A8ECFC69E7967E7A9DC1C9A735CD8DCE965D12EF01F19966C7101EAF071B4CDEA310E9
 
+## Anubis
+http://om6q4a6cyipxvt7ioudxt24cw4oqu4yodmqzl25mqd2hgllymrgu4aqd.onion \
+X (Twitter) : https://x.com/Anubis__media \
+XSS.is : https://xss.is/members/400498/
+
