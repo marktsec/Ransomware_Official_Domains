@@ -367,3 +367,13 @@ http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion/ \
 mopheus@onionmail.org
 
 http://izsp6ipui4ctgxfugbgtu65kzefrucltyfpbxplmfybl5swiadpljmyd.onion/
+
+## SKIRA TEAM
+http://mtgc3qvyedjnfu7cen2zsupdppi5ys5g2hm6xwujvoepw25p4dy6huid.onion/
+Session: ID: 05172c3981b0053c3798a740aa875b9a4b41844e22b6124e92d6dbde387f454e41
+
+## SECP0 Team
+http://secponewsxgrlnirowclps2kllzaotaf5w2bsvktdnz4qhjr2jnwvvyd.onion/
+
+## oxthiefs
+http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion/
