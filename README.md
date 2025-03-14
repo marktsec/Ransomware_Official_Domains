@@ -383,4 +383,9 @@ http://oxthiefsvzp3qifmkrpwcllwscyu7jvmdxmd2coz2rxpem6ohut6x5qd.onion/
 ## Babuk Locker 2.0
 http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion
 
-
+## Night Spire 
+http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion \
+  night.spire.team@gmail.com \
+   night.spire.team@proton.me \
+   @night_spire_team \
+night.spire.team@onionmail.org
