@@ -389,3 +389,8 @@ http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion \
    night.spire.team@proton.me \
    @night_spire_team \
 night.spire.team@onionmail.org
+
+## Mamona
+http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion/
+
+
