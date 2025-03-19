@@ -398,6 +398,6 @@ vanhelqmjstkvlhrjwzgjzpq422iku6wlggiz5y5r3rmfdeiaj3ljaid.onion \
 vanhelvuuo4k3xsiq626zkqvp6kobc2abry5wowxqysibmqs5yjh4uqd.onion \
 vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion \
 vanhelsokskrlaacilyfmtuqqa5haikubsjaokw47f3pt3uoivh6cgad.onion \
-Sample: https://www.virustotal.com/gui/file/86d812544f8e250f1b52a4372aaab87565928d364471d115d669a8cc7ec50e17
+Sample: 86d812544f8e250f1b52a4372aaab87565928d364471d115d669a8cc7ec50e17
 
 
