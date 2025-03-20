@@ -400,4 +400,6 @@ vanhelxjo52qr2ixcmtjayqqrcodkuh36n7uq7q7xj23ggotyr3y72yd.onion \
 vanhelsokskrlaacilyfmtuqqa5haikubsjaokw47f3pt3uoivh6cgad.onion \
 Sample: 86d812544f8e250f1b52a4372aaab87565928d364471d115d669a8cc7ec50e17
 
+## Kraken leak blog (hellokitty)
+http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion/
 
