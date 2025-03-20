@@ -26,7 +26,7 @@ swikipedia.reserve@onionmail.org \
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a
 
 ## BlackBasta
-http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/
+http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/ - Onion site not found
 
 ## Lockbit3
 http://lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion
