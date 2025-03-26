@@ -403,3 +403,14 @@ Sample: 86d812544f8e250f1b52a4372aaab87565928d364471d115d669a8cc7ec50e17
 ## Kraken leak blog (hellokitty)
 http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion/
 
+## Arkana Security (Аркана Секьюрити)
+arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion \
+Contact: \
+sonar: http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/contact/Arkana \
+session: getsession.org 05babe48a5070de46a39ee4aa025988beefe059dad57babe52ba797b85643f4523 \
+mirror: torproject.org ransomwvbabemdnwl7lzgeenyfmmhskaed6jcruwhkvapsia76vttzyd.onion
+
+
+
+
+
