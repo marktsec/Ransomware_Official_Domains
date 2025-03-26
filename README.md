@@ -414,6 +414,10 @@ mirror: torproject.org ransomwvbabemdnwl7lzgeenyfmmhskaed6jcruwhkvapsia76vttzyd.
 http://weyhro27ruifvuqkk3hxzcrtxv2lsalntxgkv6q2j3znkhdqudz54rqd.onion \
 TOX: 6CD290BA0876417B649DEA72CCD9E4052E40B53178521F1DB8844A29E6180F0AED874C9155C1
 
+## frag
+http://34o4m3f26ucyeddzpf53bksy76wd737nf2fytslovwd3viac3by5chad.onion
+frag-blog@tutamail.com
+frag-blog@proton.me
 
 
 
