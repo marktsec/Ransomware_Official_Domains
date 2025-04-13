@@ -90,7 +90,7 @@ jabber: qilin@exploit.im \
 TOX: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68 \
 ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@176.113.115.97 \
 ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@176.113.115.209 \
-
+WikiLeaksV2 - https://31.41.244.100/
 ## OLD
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
 jabber: qilin@exploit.im \
