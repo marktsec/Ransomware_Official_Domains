@@ -88,17 +88,17 @@ http://33zo6hifw4usofzdnz74fm2zmhd3zsknog5jboqdgblcbwrmpcqzzbid.onion - onion si
 http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/ \
 jabber: qilin@exploit.im \
 TOX: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68 \
-ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@176.113.115.97 \
-ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@176.113.115.209 \
-WikiLeaksV2 - https://31.41.244.100/ \
-Qilin interview in WikiLeaksV2  -https://31.41.244.100/Qilin-RaaS \
+ftp[:]//dataShare[:]nX4aJxu3rYUMiLjCMtuJYTKS@176[.]113[.]115[.]97 \
+ftp[:]//dataShare[:]2bTWYKNn7aK7Rqp9mnv3@176[.]113[.]115[.]209 \
+WikiLeaksV2 - hxxps:[//]31[.]41[.]244[.]100/ \
+Qilin interview in WikiLeaksV2  -https[:]//31[.]41[.]244[.]100/Qilin-RaaS \
 User: Haise
 ## OLD
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
 jabber: qilin@exploit.im \
 TOX: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68 \
-ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85.209.11.49 \
-ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@188.119.66.189
+ftp[:]//dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85[.]209[.]11[.]49 \
+ftp[:]//dataShare[:]2bTWYKNn7aK7Rqp9mnv3@188[.]119[.]66[.]189
 
 ## Medusa
 http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/ \
