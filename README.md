@@ -435,5 +435,9 @@ http://ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion/ \
 qTOX: 8E9A6195A769FE7115F087C61D75CF32874C339B3AB0947D07480C9A8A12DA5009151BE6A51F \
 session: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79 
 
+## GLOBAL
+hxxp[:]//vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id[.]onion/ \
+session: 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c
+
 
 
