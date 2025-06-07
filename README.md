@@ -439,5 +439,18 @@ session: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
 hxxp[:]//vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id[.]onion/ \
 session: 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c
 
+## CHAOS
+Registration: hxxp[:]//cdgi6zjox6zr5epk7k5rg673qduxy7dlkk7ws3n4vusspr5bmhx24aqd[.]onion \
+Blog: hxxp[:]//hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd[.]onion \
+Support1: BFC836EBAE06450FDD36B63170F121F44ADADFF2DAFAAFA41314B6778F6003501B0799F013FA \
+Win88[@]thesecure[.]biz \
+Support2: EC99BD5A36DE69144F5402C832B5413295323FC7C12259C53E4AA6D5BC2D4E6DA44C537F9FEC
+
+## RTM Team
+hxxp[:]//nv4addu4insb7x6aagdv6r5gvxzczgfje7mmecsjonnrvsq7ulevvfid[.]onion \
+TOX: A0FE105A82525ECB94DD2977B4A1F8A5A7CF82F12D720DD8C8D9CCA3F98B6F52D911126AC1DF
+
+
+
 
 
