@@ -437,7 +437,8 @@ session: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
 
 ## GLOBAL
 hxxp[:]//vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id[.]onion/ \
-session: 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c
+session: 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c \
+Sample: SHA-256 a8c28bd6f0f1fe6a9b880400853fc86e46d87b69565ef15d8ab757979cd2cc73
 
 ## CHAOS
 Registration: hxxp[:]//cdgi6zjox6zr5epk7k5rg673qduxy7dlkk7ws3n4vusspr5bmhx24aqd[.]onion \
