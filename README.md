@@ -316,6 +316,12 @@ Email: interlock@2mail.co
 http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion - onion site is offline
 
 ## HellCat
+## New HellCat
+hxxp[:]//hellcatdcy653ma43t2ryf2ztw5yfanqsbfmapndbqvteh5itctoijyd[.]onion \
+hxxp[:]//hellcatdnrsu4i5uctbklunpfyv2ppiioh5sb3leu4dfgizinrve3gqd[.]onion \
+hxxp[:]//hellcatdohzngkuh7zruzhi2wojrawbnzbyzljtkw6iluv5ussfer4id[.]onion \
+hxxp[:]//hellcatdue7rasyoi4oh6t3fhra5bpcj5t6xmrm4vjicfqdvrl24ijid[.]onion \
+## Old Hellcat
 http://hellcakbszllztlyqbjzwcbdhfrodx55wq77kmftp4bhnhsnn5r3odad.onion/ \
 http://hcatxn4ppkgmakaatrq6bsbhqk5ouhviygyx57gljjt5iseul5nvpayd.onion \
 TOX: 898923FE0699CFE1EFD17773425DECB080840877C29F883D389D6880B2B961737FACE98E82E4 \
