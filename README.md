@@ -457,6 +457,13 @@ Support2: EC99BD5A36DE69144F5402C832B5413295323FC7C12259C53E4AA6D5BC2D4E6DA44C53
 hxxp[:]//nv4addu4insb7x6aagdv6r5gvxzczgfje7mmecsjonnrvsq7ulevvfid[.]onion \
 TOX: A0FE105A82525ECB94DD2977B4A1F8A5A7CF82F12D720DD8C8D9CCA3F98B6F52D911126AC1DF
 
+## NOVA
+hxxp[:]//novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3id[.]onion \
+hxxp[:]//novag4k2te3mstt2xq5irywlpaw6edgkpiwgg4t2q7eecisj2qqtvbid[.]onion \
+hxxp[:]//novaoddh3vxylxqpsfdjprliknbzgbkv6nkazpzu3cvykrgpyzuywryd[.]onion \
+Affiliate page: hxxp[:]//novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3id[.]onion/Nova-Affiliate \
+Session ID: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
+
 
 
 
