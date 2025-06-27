@@ -260,6 +260,12 @@ support@he1p-center.com
 http://gmixcebhni6c3kcf5m7xxybomaphj7pizoqtxiqmrz5wsh6g6x5s2wqd.onion/
 
 ## El Dorado / Blacklock
+NEW
+hxxp[:]//zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd[.]onion \
+Session :0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c \
+Telegram: @GlobalBlackLock
+
+OLD
 http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion \
 MAIL:blacklock@cyberfear.com \
 CHAT:https://qtox.github.io/ \
