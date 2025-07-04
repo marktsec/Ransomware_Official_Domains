@@ -67,6 +67,21 @@ http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion \
 https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion \
 https://huntersinternational.net
 
+> Ransomware group Hunters International announces shutdown:
+
+> > Project Closure and Free Decryption Software for Affected Companies
+> > We, at Hunters International, wish to inform you of a significant decision regarding our operations. After careful consideration and in light of recent
+> > developments, we have decided to close the Hunters International project. This decision was not made lightly, and we recognize the impact it has on the
+> > organizations we have interacted with.
+
+> > As a gesture of goodwill and to assist those affected by our previous activities, we are offering free decryption software to all companies that have been
+> > impacted by our ransomware. Our goal is to ensure that you can recover your encrypted data without the burden of paying ransoms.
+
+> > We understand the challenges that ransomware attacks pose, and we hope that this initiative will help you regain access to your critical information swiftly and > > efficiently. To access the decryption tools and receive guidance on the recovery process, please visit our official website.
+
+> > We appreciate your understanding and cooperation during this transition. Our commitment to supporting affected organizations remains our priority as we conclude > > our operations.
+
+
 ## kill security
 http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion \
 http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion - New blog \
