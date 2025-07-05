@@ -323,7 +323,8 @@ E-mail: brain.support@cyberfear.com
 
 ## Nitrogen
 http://nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion \
-TOX: 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D
+TOX: 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D \
+X: @NitrogenSupp
 
 ## Sarcoma
 http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/ \
