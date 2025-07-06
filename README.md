@@ -490,6 +490,11 @@ Session ID: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
 hxxp[:]//sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd[.]onion/leaks \
 hxxp[:]//sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd[.]onion/leaks \
 
+## DEVMAN 2.0
+hxxp[:]//wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd[.]onion/ \
+9D97F166730F865F793E2EA07B173C742A6302879DE1B0BBB03817A5A04B572FBD82F984981D 
+
+
 
 
 
