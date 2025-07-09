@@ -485,6 +485,7 @@ hxxp[:]//novag4k2te3mstt2xq5irywlpaw6edgkpiwgg4t2q7eecisj2qqtvbid[.]onion \
 hxxp[:]//novaoddh3vxylxqpsfdjprliknbzgbkv6nkazpzu3cvykrgpyzuywryd[.]onion \
 Affiliate page: hxxp[:]//novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3id[.]onion/Nova-Affiliate \
 Session ID: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
+hxxp[:]//novavdivko2zvtrvtllnq45lxhba2rfzp76qigb4nrliklem5au7czqd.onion \
 
 ## sinobi
 hxxp[:]//sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd[.]onion/leaks \
