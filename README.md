@@ -495,6 +495,10 @@ hxxp[:]//sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd[.]onion/leaks 
 hxxp[:]//wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd[.]onion/ \
 9D97F166730F865F793E2EA07B173C742A6302879DE1B0BBB03817A5A04B572FBD82F984981D 
 
+## RansomedVC \ RebornVC
+hxxps[:]//ransomed[.]biz \
+TOX: FF59E28C08A4D0D9BA95EC6D72A15F7677D58E48EC5EE0D7CADEE0E7A1B3E37BFBD4996B41DD
+
 
 
 
