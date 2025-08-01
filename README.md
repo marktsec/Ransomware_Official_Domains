@@ -511,6 +511,10 @@ email : a00f105546345756@proton.me
 ## W.A.
 hxxp[:]//weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd[.]onion
 
+## Beast
+hxxp[:]//beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd[.]onion \
+hxxp[:]//ooie6tet7ggcmlgvtmyvok4s6vha6ecwczssbchbyxrg2r6v2m6zkkad[.]onion
+
 
 
 
