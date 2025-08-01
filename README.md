@@ -395,7 +395,9 @@ Get Session: 0538d726ae3cc264c1bd8e66c6c6fa366a3dfc589567944170001e6fdbea9efb3d
 http://zu3wfrmrkl4ltqqnpt3owp3cwa33rqwod4gpe3ttb5o4vf2is2gzm6qd.onion/
 
 ## Beast
-Jabber: mnstr@exploit.im
+hxxp[:]//beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd[.]onion \
+hxxp[:]//ooie6tet7ggcmlgvtmyvok4s6vha6ecwczssbchbyxrg2r6v2m6zkkad[.]onion \
+Jabber: mnstr@exploit.im \
 TOX: 92E5D1A8ECFC69E7967E7A9DC1C9A735CD8DCE965D12EF01F19966C7101EAF071B4CDEA310E9
 
 ## Anubis
@@ -511,9 +513,8 @@ email : a00f105546345756@proton.me
 ## W.A.
 hxxp[:]//weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd[.]onion
 
-## Beast
-hxxp[:]//beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd[.]onion \
-hxxp[:]//ooie6tet7ggcmlgvtmyvok4s6vha6ecwczssbchbyxrg2r6v2m6zkkad[.]onion
+
+
 
 
 
