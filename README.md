@@ -513,6 +513,9 @@ email : a00f105546345756@proton.me
 ## W.A.
 hxxp[:]//weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd[.]onion
 
+## worldleaks
+hxxps[:]//worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid[.]onion
+
 
 
 
