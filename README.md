@@ -516,6 +516,12 @@ hxxp[:]//weepangrbqjfsxd2noz4bmolztnqsma3vw4c6qfnbfusadzd2m26emqd[.]onion
 ## worldleaks
 hxxps[:]//worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid[.]onion
 
+## D4RK4RMY
+hxxp[:]//d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd[.]onion
+
+
+
+
 
 
 
