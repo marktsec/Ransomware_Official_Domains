@@ -526,7 +526,9 @@ hxxps[:]//worldleaksartrjm3c6vasllvgacbi5u3mgzkluehrzhk2jz4taufuid[.]onion
 ## D4RK4RMY
 hxxp[:]//d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd[.]onion
 
-
+## The Gentlemen's RaaS
+hxxp[:]//tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion 
+TOX ID F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E 
 
 
 
