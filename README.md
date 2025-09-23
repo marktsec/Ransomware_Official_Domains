@@ -497,6 +497,9 @@ Affiliate page: hxxp[:]//novatd4577pzlvdyy42slydhrhru7fpcflbbxlajcmbfrgzyeis6d3i
 Session ID: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
 hxxp[:]//novavdivko2zvtrvtllnq45lxhba2rfzp76qigb4nrliklem5au7czqd.onion \
 
+## New NOVA BLOG
+hxxp[:]//novaxtychr6ohlc4zr5its73p6i7unpuhpwoodtzrg2y4w4seytatlid[.]onion
+
 ## sinobi
 hxxp[:]//sinobi6ftrg27d6g4sjdt65malds6cfptlnjyw52rskakqjda6uvb7yd[.]onion/leaks \
 hxxp[:]//sinobi6rlec6f2bgn6rd72xo7hvds4a5ajiu2if4oub2sut7fg3gomqd[.]onion/leaks \
