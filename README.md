@@ -534,6 +534,11 @@ hxxp[:]//d4rkd2fybtclo44hss2dpqpw7gmofboxhruax2az3uejw7puxxbpkvqd[.]onion
 hxxp[:]//tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion 
 TOX ID F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E 
 
+## Scattered LAPSUS$ Hunters
+hxxp[:]//shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid[.]onion \
+hxxps[:]//breachforums[.]hn
+
+
 
 
 
