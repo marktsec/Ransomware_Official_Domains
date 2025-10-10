@@ -348,8 +348,9 @@ http://sarcomawmawlhov7o5mdhz4eszxxlkyaoiyiy2b5iwxnds2dmb4jakad.onion/ \
 Mail: SarcomaGroup@onionmail.org
 
 ## Interlock
-http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion \
-Email: interlock@2mail.co
+hxxp[:]//ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid[.]onion \
+Email: interlock@2mail[.]co
+New email: inbox.interlock[@]2mail[.]co
 
 ## PlayBoy
 http://vlofmq2u3f5amxmnblvxaghy73aedwta74fyceywr6eeguw3cn6h6uad.onion - onion site is offline
