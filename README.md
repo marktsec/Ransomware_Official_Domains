@@ -172,6 +172,9 @@ http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/news
 Tox: 1C054B722BCBF41A918EF3C485712742088F5C3E81B2FDD91ADEA6BA55F4A856D90A65E99D20
 FS: http://dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion/
 
+hxxp[:]//dragongoztkdfmnd7jkchznd3fvkpdmeh4vhbt6p3usrlsoy5dw2bhyd[.]onion/registration
+DBKPVG2A5PJEIFCCJRCAO2R2WRX75NJXL3O67U2W5DPCQIMAYJMA
+
 ## Donutleaks
 http://dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion/
 
