@@ -130,7 +130,13 @@ http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion/ \
 http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/ \
 http://hupxs7ps7md24kpz4lwsbra64abgxjx3pcc2wuca5ibawf2g5hlpfyqd.onion/ \
 http://62foekhv5humjrfwjdyd2dgextpbf5i7obguhwvfoghmu3nxpkmxlcid.onion/ \
-TOX: AEA72DFCF492037A6D15755A74645C7D8E674E342BACA9F9070A3FB74117EC3143FD6E29BEAC
+TOX: AEA72DFCF492037A6D15755A74645C7D8E674E342BACA9F9070A3FB74117EC3143FD6E29BEAC \
+
+## Updated
+hxxp[:]//xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd[.]onion \
+hxxp[:]//7aqabivkwmpvjkyefonf3gpy5gsubopqni7kcirsrq3pflckxq5zz4id[.]onion \
+
+
 
 ## 8BASE
 http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/ - onion site is offline
