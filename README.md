@@ -549,6 +549,11 @@ hxxp[:]//shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid[.]onion \
 hxxps[:]//breachforums[.]hn \
 shinyc0rp[@]tuta[.]io
 
+hxxps[:]//shinyhunte[.]rs
+hxxp[:]//shinypogk4jjniry5qi7247tznop6mxdrdte2k6pdu5cyo43vdzmrwid[.]onion
+shinygroup[@]onionmail[.]com
+
+
 ## kyblog
 hxxp[:]//kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid[.]onion
 
