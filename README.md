@@ -560,6 +560,8 @@ hxxp[:]//kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid[.]onion
 ## Radar
 hxxp[:]//3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid[.]onion
 
+## BlackNevas
+hxxp[:]//ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid[.]onion
 
 
 
