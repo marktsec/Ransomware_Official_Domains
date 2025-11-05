@@ -563,6 +563,11 @@ hxxp[:]//3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid[.]onion
 ## BlackNevas
 hxxp[:]//ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid[.]onion
 
+## CoinbaseCartel
+hxxp://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd[.]onion \
+TOX 1225DDE01980D7C7890A90E359EF4406D74DF7DB94F6C5F3B8378BB78444473022675C49FACB
+
+
 
 
 
