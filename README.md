@@ -558,7 +558,9 @@ shinygroup[@]onionmail[.]com
 hxxp[:]//kyblogtz6k3jtxnjjvluee5ec4g3zcnvyvbgsnq5thumphmqidkt7xid[.]onion
 
 ## Radar
-hxxp[:]//3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid[.]onion
+hxxp[:]//3bnusfu2lgk5at43ceu7cdok5yv4gfbono2jv57ho74ucjvc7czirfid[.]onion \
+Session: 05e4f38090e06156b94ebf76e93ab4ccb761d761b886bbabf2df41c2bc341e8b30 \
+TOX: 8F514E8FDA683D7C5957CE9560EB5941B4840DB0C3CEDEFB57FD8E2D8CF5884B44D99B872E93
 
 ## BlackNevas
 hxxp[:]//ctyfftrjgtwdjzlgqh4avbd35sqrs6tde4oyam2ufbjch6oqpqtkdtid[.]onion
