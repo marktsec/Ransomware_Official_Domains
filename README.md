@@ -573,8 +573,9 @@ new TOX 58041B45371485934F798C77F2F9705DA735F28AC9EBA2A19B4C9DBAF462802B88E33CEF
 ## ShinySp1d3r
 Telegram: hxxps[:]//t[.]me/smokinmandiant (scattered LAPSUS$ hunters part 7)
 
-
-
+## Benzona Ransomware
+hxxp[:]//benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd[.]onion \
+qTox: 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0
 
 
 
