@@ -577,7 +577,8 @@ Telegram: hxxps[:]//t[.]me/smokinmandiant (scattered LAPSUS$ hunters part 7)
 hxxp[:]//benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd[.]onion \
 qTox: 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0
 
-
+## CRY0 Team
+cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd[.]onion
 
 
 
