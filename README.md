@@ -580,6 +580,9 @@ qTox: 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4D
 ## CRY0 Team
 cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd[.]onion
 
+##  Obscura 2.0
+hxxp[:]//obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad[.]onion \
+Tox: 7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6
 
 
 
