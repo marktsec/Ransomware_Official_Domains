@@ -115,7 +115,9 @@ ftp[:]//dataShare[:]nX4aJxu3rYUMiLjCMtuJYTKS@176[.]113[.]115[.]97 \
 ftp[:]//dataShare[:]2bTWYKNn7aK7Rqp9mnv3@176[.]113[.]115[.]209 \
 WikiLeaksV2 - hxxps:[//]31[.]41[.]244[.]100/ \
 Qilin interview in WikiLeaksV2  -https[:]//31[.]41[.]244[.]100/Qilin-RaaS \
-User: Haise
+User: Haise \
+hxxps[:]//wikileaks2[.]xyz (user: Wikileaksv2, TOX: A0345D760F8068EB32F55DF6491A8D417B7CC0A355FEAAA63945B701324B603AD1A0416F390C)
+
 ## OLD
 http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/ \
 jabber: qilin@exploit.im \
