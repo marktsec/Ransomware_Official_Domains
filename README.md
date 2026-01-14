@@ -578,12 +578,17 @@ hxxp[:]//benzona6x5ggng3hx52h4mak5sgx5vukrdlrrd3of54g2uppqog2joyd[.]onion \
 qTox: 7308E8CFE8AA18D718B5EF44C34A2E5E2C90B7FDB150FA2EC31E995F5F4B23044A98802A4DF0
 
 ## CRY0 Team
-cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd[.]onion
+cryoblogedawivdcknyd4jsjxkrx3xrqqltxla6wwjjnzm3f3jaxjzqd[.]onion \
+TOX: 54E9450799AFBBA90992E3C40F552C8C05D5765144396C6A1A622FD9DABD01101F9DC0CF90F4 \
+CRY0 Team: "We host negotiation pages on the ICP blockchain. Victims no longer need Tor — the page opens in any browser via a direct link. This provides 100% uptime and complete DDoS immunity. The first step towards full decentralization.
+Example: hxxps[:]//gkb5c-taaaa-aaaae-adiwa-cai[.]icp0[.]io/?k=bca2b029a446a6fb9ac493a49ba5d5f790fc292d832e623b0ac49b5ac3adb972&campaign=9cdbc24a9386ea7d321c6b911952aaa5b0b4e7fe54d7f53ffa3bf36f718d7611&eh=4f2f5adb31efd07331ba09d9d67c5b0fb47d138976c521ce4a87e765bf73ece9 (chat is off)"
 
 ##  Obscura 2.0
 hxxp[:]//obscurad3aphckihv7wptdxvdnl5emma6t3vikcf3c5oiiqndq6y6xad[.]onion \
 Tox: 7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6
 
+## MONOLOCK [ BEACON BASED RAAS ]
+hxxps[:]//mlock[.]tel/
 
 
 
