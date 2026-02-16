@@ -64,6 +64,8 @@ PANEL AUTO REG lockbitfbinpwhbyomxkiqtwhwiyetrbkb4hnqmshaonqxmsrqwg7yad[.]onion 
 TOX 3085B89A0C515D2FB124D645906F5D3DA5CB97CEBEA975959AE4F95302A04E1D14E41080A105 \
 PUBLIC PGP KEY lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion/pgp[.]txt
 
+hxxp[:]//lockbit[.]org/
+
 
 ## Play
 http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/ \
