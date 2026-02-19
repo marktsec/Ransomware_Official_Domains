@@ -610,7 +610,8 @@ SESSION: 058818f5d84c39403b01ffa023a21b9fe118ffb237fd642c53e73944fb7ac02e6f
 i62huw7ve22rpyw6lnq3kmfump2dmsg4xpveec3ere73njwatrz74gad[.]onion \
 Tox ID FA21E360945F602504728A05A39758C38B6A5B5DA1969717AF05838D14FDCD3DE17455833F11 \
 
-
+## Affilates Blacklist from NOVA, QILIN, DragonForce
+blklun542qjdabcmx4igyf5wtw2v3tmhsbvu5aely25u2komohmn22ad[.]onion \
 
 
 
