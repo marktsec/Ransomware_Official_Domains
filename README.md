@@ -613,6 +613,10 @@ Tox ID FA21E360945F602504728A05A39758C38B6A5B5DA1969717AF05838D14FDCD3DE17455833
 ## Affilates Blacklist from NOVA, QILIN, DragonForce
 blklun542qjdabcmx4igyf5wtw2v3tmhsbvu5aely25u2komohmn22ad[.]onion \
 
-
+## ShadowByt3$
+mfbbt65kir2drc7tuoukwibikgvxquauscnzgbeltkmidjtgqlzm2qad[.]onion \
+sdwbytqeb664krp2wz2qs3lxxah2rhneuotot5hy7g4jpn2pindigcad[.]onion \
+Telegram: hxxps[:]//t[.]me/shadows_supp \
+hxxps[:]//t[.]me/techfood247 \
 
 
