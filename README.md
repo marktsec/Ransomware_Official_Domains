@@ -622,3 +622,11 @@ hxxps[:]//t[.]me/techfood247 \
 ## hyflock raas
 TOX: 37BC1EC8D8EEE7ECEA44A953855DAC628DF0920CE41EE4164006BDC95ADEBA5738C870A23686
 
+## VECT
+vectordntlcrlmfkcm4alni734tbcrnd5lk44v6sp4lqal6noqrgnbyd[.]onion \
+hxxps[:]//vect[.]breached[.]st \
+vect.breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid[.]onion
+
+
+
+
