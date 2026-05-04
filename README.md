@@ -128,13 +128,16 @@ ftp[:]//dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@85[.]209[.]11[.]49 \
 ftp[:]//dataShare[:]2bTWYKNn7aK7Rqp9mnv3@188[.]119[.]66[.]189
 
 ## Medusa
-http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/ \
-http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion/ \
-http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion/ \
-http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/ \
-http://hupxs7ps7md24kpz4lwsbra64abgxjx3pcc2wuca5ibawf2g5hlpfyqd.onion/ \
-http://62foekhv5humjrfwjdyd2dgextpbf5i7obguhwvfoghmu3nxpkmxlcid.onion/ \
+hxxp[:]//xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd[.]onion/ \
+hxxp[:]//7aqabivkwmpvjkyefonf3gpy5gsubopqni7kcirsrq3pflckxq5zz4id[.]onion/ \
+hxxp[:]//kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd[.]onion/ - Offline \
+hxxp[:]//s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad[.]onion/ - Offline \
+hxxp[:]//cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd[.]onion/ - Offline \
+hxxp[:]//hupxs7ps7md24kpz4lwsbra64abgxjx3pcc2wuca5ibawf2g5hlpfyqd[.]onion/ - Offline \
+hxxp[:]//62foekhv5humjrfwjdyd2dgextpbf5i7obguhwvfoghmu3nxpkmxlcid[.]onion/ - Offline \
+hxxps[:]//t[.]me/+lyskiDn9KiYxZjlh \
 TOX: AEA72DFCF492037A6D15755A74645C7D8E674E342BACA9F9070A3FB74117EC3143FD6E29BEAC \
+TOX: 6E8CDBCFFCC204358615563A3C2325E08DE03B785F6A85D783DE6E43AF246430142D9CBD4664
 
 ## Updated
 hxxp[:]//xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd[.]onion \
