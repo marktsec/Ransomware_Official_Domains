@@ -638,3 +638,9 @@ falkonpzmqkoo73n3urnnjkid6l7x7flfdzjv5hf53hfb5cqnb5hh3yd[.]onion
 ## SevyWare RaaS
 sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid[.]onion
 
+## Wallstreet
+4dwiv37h7hhuhjpvtn72hme4ylcv3qoe65arfc6mbweal7als6ma7pyd[.]onion \
+TOX: 0C659C8A2EE2EFEA357B688B08D917AEB3323B8CF49922095CBDA6388A93E64290E09FFCD406
+
+
+
