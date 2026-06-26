@@ -635,4 +635,6 @@ vect.breach5yz2b5lepmq4gaqwcon3jippw3bislhvvdavem5git55sy2nid[.]onion
 ## FALCONC2
 falkonpzmqkoo73n3urnnjkid6l7x7flfdzjv5hf53hfb5cqnb5hh3yd[.]onion
 
+## SevyWare RaaS
+sevykkkuzbxjpkb7gtfxnltn73bm6vaxglxh5xsd55trqqew3xpowwid[.]onion
 
