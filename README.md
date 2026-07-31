@@ -653,5 +653,10 @@ neclc36yt4yaa5lv54kh4qbhvjcvuv6nnaurqowkellytpvj3afh4aid[.]onion \
 TOX: 48d52d08f74ceefb0e45009576c9d55b54559641e3147745e98e0e53c44f1f82
 > > All operations under the Blackfile name have been permanently ceased and will not continue. However, our operations are not shutting down. We are continuing under a new name: REDACT.
 
+## BOLT 
+3pxt6o2ipwnfbgqvknydkizry5fysq4jmktxmrnfdgiii4fdkwfsliqd[.]onion \
+TOX: 9706FAA0ED53D780A2814439A34EE55BCB92FC817F5591FA8113AF30CBD411212B721451E591
+
+
 
 
