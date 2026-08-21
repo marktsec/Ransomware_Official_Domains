@@ -676,6 +676,8 @@ eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid[.]onion \
 TOX: FDE578D55F8B692C4EB2CB5518C8B4FEE05F1620085F30302D782A2778FBEA12302B1B3EEAF5
 Session: 0501a73078e4aaca2663f38de0a2397c8e6d8189f30b42bbec7d4e894bd0377766
 
+## Helix
+helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd[.]onion \
 
 
 
