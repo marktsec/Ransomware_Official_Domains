@@ -680,6 +680,10 @@ Session: 0501a73078e4aaca2663f38de0a2397c8e6d8189f30b42bbec7d4e894bd0377766
 ## Helix
 helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd[.]onion \
 
+## DarkProject
+darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid[.]onion \
+TOX ID: 243AAD0D1875CA4D48034E799785F2C9EA225E4466C87FA9B9297F7BEADC694478C7DE0A7639
+
 
 
 
