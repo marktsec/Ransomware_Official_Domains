@@ -492,6 +492,13 @@ qTOX: 8E9A6195A769FE7115F087C61D75CF32874C339B3AB0947D07480C9A8A12DA5009151BE6A5
 session: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79 
 
 ## GLOBAL
+NEW
+globalco44t2yl6ltgj74cwthr6b6olggl3srg7engqfhx72f6ni3cyd[.]onion/ \
+globaldonejcrwbe7ujwuzptsummx3rvba54wcjoxrjvqgo37y4aqwid[.]onion/ \
+globalrbweyhxxa5b65bjjsm5bfuqfs5ydizefupqcminoedzn6o2sqd[.]onion/ \
+globalco44t2yl6ltgj74cwthr6b6olggl3srg7engqfhx72f6ni3cyd[.]onion/
+
+OLD
 hxxp[:]//vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id[.]onion/ \
 session: 0532b290d16a48f8f81dc1a41c0840145aede477af674c56e6599507aa7f27933c \
 Sample: SHA-256 a8c28bd6f0f1fe6a9b880400853fc86e46d87b69565ef15d8ab757979cd2cc73
@@ -687,6 +694,11 @@ TOX ID: 243AAD0D1875CA4D48034E799785F2C9EA225E4466C87FA9B9297F7BEADC694478C7DE0A
 ## SHINYHUNTERS
 shnyhntww34phqoa6dcgnvps2yu7dlwzmy5lkvejwjdo6z7bmgshzayd[.]onion \
 hxxps[:]//176[.]120[.]22[.]24/ \
+
+## Sovcali
+z3mojpjnxt5tgqvu4wgosihl7pxvrcbyjcgquw2bwkyye5gwbhnf4kqd[.]onion/ \
+SESSION ID: 058d6e873410870bb920e6aebda023f94514f6959c9823a4222265a1adeed69719
+
 
 
 
